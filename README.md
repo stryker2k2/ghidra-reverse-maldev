@@ -9,7 +9,9 @@ maldev.exe is the client-side program that establishes a TCP connection with a l
 
 ### Commands
 pwd: Prints client working directory
+
 whoami: Prints username of client's current user
+
 hostname: Prints client hostname
 
 ### Contact Information
