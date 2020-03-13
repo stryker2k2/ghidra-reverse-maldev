@@ -15,4 +15,4 @@ whoami: Prints username of client's current user
 hostname: Prints client hostname
 
 ### Contact Information
-YouTube: https://www.youtube.com/channel/UCo8vV94aQsuvPrkymFcl1Yg
+YouTube: https://youtu.be/uPlrtfnshGs
